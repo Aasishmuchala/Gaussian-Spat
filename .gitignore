@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+.venv/
+freetime_env/
+
+# Build outputs
+.next/
+out/
+dist/
+
+# Uploads and temporary files
+uploads/
+*.npy
+*.npz
+*.pt
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.eggnode_modules/\npackage-lock.json\n.next/
